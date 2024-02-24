@@ -1,0 +1,14 @@
+{
+  "name": "is-odd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  },
+  "dependencies": {
+    "is-even": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
